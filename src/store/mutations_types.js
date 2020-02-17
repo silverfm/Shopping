@@ -1,0 +1,1 @@
+export const INCREASE_COUNT = 'increace_count'
